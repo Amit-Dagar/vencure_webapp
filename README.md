@@ -14,7 +14,9 @@ by automating their conventional way of communication/negotiation of raw materia
 Credentials To Test Out Admin Panel (For Demo/Do Not Spam):
 
 Login Page : https://admin-vencure.flamecloud.co.uk/
+
 Email : nikunj@flamecloud.co.uk
+
 Password : h6C+},1P1(,dky$x
 
 
@@ -27,8 +29,10 @@ Password : h6C+},1P1(,dky$x
 Credentials To Test Out Vendor Panel (For Demo/Do Not Spam):
 
 Login Page : https://dashboard-vencure.flamecloud.co.uk/
-Email : nikunj@flamecloud.co.uk
-Password : h6C+},1P1(,dky$x
+
+Email : ekansh@flamecloud.co.uk
+
+Password : Lmao@12345
 
 **Overall Key Functionality:**
 
