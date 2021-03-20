@@ -11,11 +11,24 @@ by automating their conventional way of communication/negotiation of raw materia
 4. Ability to Manage Agreements (Like Counter Offer the Agreement)
 5. Ability to View Status on Agreements
 
+Credentials To Test Out Admin Panel (For Demo/Do Not Spam):
+
+Login Page : https://admin-vencure.flamecloud.co.uk/
+Email : nikunj@flamecloud.co.uk
+Password : h6C+},1P1(,dky$x
+
+
 **Vendor Panel Features :**
 
 1. Ability to View Products/RFPs provided by Manufacturers
 2. Ability to Send Agreements (Cost Pricing/Start & End Dates/Delivery Modes)
 3. Ability to View Status on Agreements
+
+Credentials To Test Out Vendor Panel (For Demo/Do Not Spam):
+
+Login Page : https://dashboard-vencure.flamecloud.co.uk/
+Email : nikunj@flamecloud.co.uk
+Password : h6C+},1P1(,dky$x
 
 **Overall Key Functionality:**
 
